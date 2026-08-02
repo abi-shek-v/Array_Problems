@@ -1,3 +1,6 @@
+/*
+13. Write a C program to replace all negative numbers in an array with zero and display the modified array.
+*/
 #include<stdio.h>
 
 int main()
