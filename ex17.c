@@ -1,3 +1,7 @@
+/*
+17. Write a C program to find the second largest element
+    in a one-dimensional array. Assume that all elements are distinct.
+*/
 #include<stdio.h>
 
 int main()
