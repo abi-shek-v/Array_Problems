@@ -1,3 +1,7 @@
+/*
+4. Write a C program to find and display the largest element
+   in a one-dimensional array.
+*/
 #include<stdio.h>
 int main(){
 int n;
