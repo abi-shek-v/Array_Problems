@@ -1,6 +1,5 @@
 /*
-7. Write a C program to count the number of positive, negative,
-   and zero elements in an array.
+7. Write a C program to count the number of positive, negative, and zero elements in an array.
 */
 #include<stdio.h>
 void ponegzero(int arr[],int n,int *pos,int *neg,int *zero){
