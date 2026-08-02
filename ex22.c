@@ -1,3 +1,6 @@
+/*
+22. Write a C program to delete an element from a specified position in an array and display the updated array.
+*/
 #include<stdio.h>
 
 int main()
