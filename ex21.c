@@ -1,3 +1,7 @@
+/*
+21. Write a C program to insert a new element into an array
+    at a specified position.Shift the existing elements accordingly.
+*/
 #include<stdio.h>
 
 int main()
