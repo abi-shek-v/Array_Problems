@@ -1,3 +1,7 @@
+/*
+5. Write a C program to find and display the smallest element
+   in a one-dimensional array.
+*/
 #include<stdio.h>
 int main(){
 int n,sum=0;
