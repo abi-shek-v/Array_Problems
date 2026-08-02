@@ -1,3 +1,6 @@
+/*
+11. Write a C program to reverse the elements of a one-dimensional array.
+*/
 #include<stdio.h>
 void reverse(int arr[],int n){
 int temp;
