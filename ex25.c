@@ -1,3 +1,6 @@
+/*
+25. Write a C program to rotate the elements of an array by one position towards the left.
+*/
 #include<stdio.h>
 
 int main()
