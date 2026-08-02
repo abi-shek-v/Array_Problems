@@ -1,3 +1,6 @@
+/*
+23. Write a C program to remove all occurrences of a given element from a one-dimensional array.
+*/
 #include<stdio.h>
 
 int main()
