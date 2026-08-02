@@ -1,3 +1,7 @@
+/*
+20. Write a C program to determine whether the elements of an array
+    are arranged in descending order.Display an appropriate message based on the result.
+*/
 #include<stdio.h>
 
 int main()
