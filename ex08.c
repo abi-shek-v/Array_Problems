@@ -1,3 +1,8 @@
+/*
+8. Write a C program to search for a given element in an array
+   using Linear Search. Display the index if the element is found;
+   otherwise display an appropriate message.
+*/
 #include<stdio.h>
 void linearsearch(int arr[],int n,int key){
 int found=0;
