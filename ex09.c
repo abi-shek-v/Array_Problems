@@ -1,6 +1,5 @@
 /*
-9. Write a C program to count the frequency of a given element
-   in a one-dimensional array.
+9. Write a C program to count the frequency of a given element in a one-dimensional array.
 */
 #include<stdio.h>
 void frequency(int arr[],int n,int visited[]){
