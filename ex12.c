@@ -1,3 +1,6 @@
+/*
+12. Write a C program to copy all elements from one array to another array.
+*/
 #include<stdio.h>
 int main(){
 int n;
