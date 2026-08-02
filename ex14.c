@@ -1,3 +1,6 @@
+/*
+14. Write a C program to multiply each element of an array by a user-specified constant and display the updated array.
+*/
 #include<stdio.h>
 
 int main()
