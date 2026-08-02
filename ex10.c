@@ -1,3 +1,6 @@
+/*
+10. Write a C program to print all elements of an array in reverse order without modifying the original array.
+*/
 #include<stdio.h>
 int main(){
 int n;
