@@ -1,3 +1,7 @@
+/*
+6. Write a C program to count the total number of even and odd
+   elements in an array.
+*/
 #include<stdio.h>
 void Evenodd(int arr[],int n,int *even,int *odd){
 for(int i=0;i<n;i++){
