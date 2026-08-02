@@ -1,3 +1,6 @@
+/*
+15. Write a C program to calculate the sum of all even elements and the sum of all odd elements separately.
+*/
 #include<stdio.h>
 
 int main()
