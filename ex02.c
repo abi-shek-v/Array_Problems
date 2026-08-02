@@ -1,3 +1,6 @@
+/*
+2. Write a C program to calculate and display the sum of all elements present in a one-dimensional array.
+*/
 #include<stdio.h>
 int main(){
 int n,sum=0;
