@@ -1,3 +1,6 @@
+/*
+24. Write a C program to merge two one-dimensional arrays into a third array and display the merged array.
+*/
 #include<stdio.h>
 
 int main()
