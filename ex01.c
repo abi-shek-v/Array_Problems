@@ -1,3 +1,5 @@
+/*Write a C program to read N integer elements into a one-dimensional array and display all the elements in the same order.	Arrays, for loop, scanf(), printf()*/
+  
 #include<stdio.h>
 int main(){
 int n;
