@@ -1,3 +1,6 @@
+/*
+3. Write a C program to calculate the average of all elements stored in an array. Display the result with two decimal places.
+*/
 #include<stdio.h>
 int main(){
 int n;
