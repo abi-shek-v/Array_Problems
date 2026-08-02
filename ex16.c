@@ -1,3 +1,6 @@
+/*
+16. Write a C program to find both the largest and smallest elements in an array using a single traversal.
+*/
 #include<stdio.h>
 
 int main()
